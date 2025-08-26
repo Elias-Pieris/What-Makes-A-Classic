@@ -23,18 +23,6 @@ The analysis includes:
   - Dialogue patterns vary but are generally accessible.
 - Many differences are likely due to **specific author style** rather than category.  
 
-## How to Use
-
-1. Place the text files from Project Gutenberg into the `data` folder, organised into `classics` and `non_classics` subfolders.  
-2. Run the `clean_text` function to preprocess each file.  
-3. Use the provided scripts to calculate and visualise text metrics.  
-
-## Requirements
-
-- Python 3.x  
-- `pandas`  
-- `matplotlib`  
-- `nltk`  
 
 ## Conclusion
 
