@@ -11,8 +11,7 @@ The analysis includes:
   - Average word length
   - Average sentence length
   - Vocabulary richness (unique and rare words)
-  - Dialogue proportion
-- Visualising results through bar charts and boxplots.
+- Visualising results through bar charts and Word Clouds
 - Comparing classic books with non-classics to identify patterns in writing style.
 
 ## Key Findings
